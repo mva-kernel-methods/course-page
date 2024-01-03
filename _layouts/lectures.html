@@ -18,15 +18,18 @@ layout: page
     <div class="content">
         <strong>Date: {{lecture.date | date: "%b  %d"}} </strong>
         <br>
-        <strong>Title: {{ lecture.title }}</strong>
+        <strong>
+        Room: {{lecture.location}} </strong>
+        <br>
+        <strong>
+          Material: <a href="{{site.baseurl}}/static_files/materials/slides.pdf#page={{lecture.slides_begin}}">  {{ lecture.title }}</a>
+        </strong>
         <br>
         <strong>Description:</strong> {{ lecture.tldr }}
         {% if lecture.display %}
-        {% if lecture.slides  %}
         <br/>
-        <strong><a href="{{site.baseurl}}/static_files/materials/slides.pdf#page={{lecture.slides_begin}}"> Slides:</a> Pages {{lecture.slides_begin}}-{{lecture.slides_ends}}
+        <strong> Slides: {{lecture.slides_begin}}-{{lecture.slides_ends}}
         </strong>
-        {% endif %}
         {% if lecture.links %}
         <br>
         <strong>

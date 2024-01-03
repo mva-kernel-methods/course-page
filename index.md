@@ -24,13 +24,10 @@ The goal of this course is to present the mathematical foundations of kernel met
 
 ## Schedule and organization
 
-TBA
-
-<!-- - For this class, we will adopt a hybrid format: Before each class, you are supposed to have studied a set of slides and watched the corresponding videos (typically 1.5H long) before the class. On the official schedule, the class starts at **1:30pm**, which gives you enough time for watching the videos and studying the slides, **before** participating to one-hour interactive sessions with the intructors. During these, we will take questions, discuss solutions to homeworks, etc... These **one-hour sessions** will take place every **Wednesdays from 3pm to 4pm**. There will be 9 sessions in total.
-- Our goal is to organize these sessions in person at ENS Paris Saclay. Nevertheless, the current situation forces us to start the class fully online, at least until the end of January. A zoom link will be provided by email. (Both instructors live in Grenoble, and have travel restrictions due to Inria's current policy).
+- This year, the course will be in person and will take place at ENS Paris-Saclay. The class starts at **1:30pm** and ends at **4pm** on **Wednesdays** (see **[full schedule](schedule/)**). There will be 9 sessions in total.
 - The grading of the class will be done with (i) one final exam, (ii) a data challenge, (iii) regular (short) exercises to do online.
-- Please contact the instructors if you would like to follow this course.
- -->
+- To register to this course, you'll need to subscribe to the course mailing list. If you are an MVA our MASH student, you will receive an email explaining how to subscribe to the course's list before the first lecture. Otherwise, please directly contact the instructors. 
+
 
 ## Evaluation
  The final note will be a weighted average of a data challenge (40%), a final exam (40%) and regular homeworks (20%).

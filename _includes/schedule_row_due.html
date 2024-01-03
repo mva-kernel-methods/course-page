@@ -1,11 +1,14 @@
 <div class="col col-1" style="color: #8a6d3b ;font-weight: bold;" data-label="Event">Due</div>
-<div class="col col-1-2" style="font-weight: bold" data-label="Date">
+<div class="col col-2" style="font-weight: bold" data-label="Date">
     {{ event.date | date: site.dateformat }}
     {{ event.date | date: "%H:%M" }}
     <br class="date-spliter" />{{ event.date | date: "%A" }}
 </div>
-<div class="col col-2" style="font-weight: bold" data-label="Description">
+<div class="col col-3" data-label="Room">  </div>
+<div class="col col-4" data-label="Instructor">
+</div>
+<div class="col col-5" style="font-weight: bold" data-label="Description">
     {{ include.event.description }}
 </div>
-<div class="col col-4" data-label="Course Material">
+<div class="col col-6" data-label="Course Material">
 </div>
