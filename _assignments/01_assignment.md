@@ -5,7 +5,7 @@ title: 'Assignment #1'
 pdf: /static_files/homeworks/hw1.pdf
 due_event: 
     type: due
-    date: 2024-02-07T15:00:00+1:00
+    date: 2024-02-07T13:30:00+1:00
     description: 'Assignment #1 due'
 display: false
 ---
