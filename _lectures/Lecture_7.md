@@ -1,9 +1,9 @@
 ---
 type: lecture
 location: 1Z14
-instructor: MA
+instructor: JM
 date: 2024-02-28T8:00:00+1:30
-title: Lecture 7 - Kernels for graphs, kernels on graphs
+title: Lecture 6 - Kernels for graphs, kernels on graphs
 tldr: "Some applications of kernel methods to graph structured data."
 thumbnail: /static_files/presentations/Lecture_7.jpg
 display: false
