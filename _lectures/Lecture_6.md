@@ -2,7 +2,7 @@
 type: lecture
 location: 1Z14
 instructor: JM
-date: 2024-02-28T8:00:00+1:30
+date: 2024-03-06T8:00:00+1:30
 title: Lecture 6 - Green, Mercer, Herglotz, Bochner and friends
 tldr: "Some kernel theory."
 thumbnail: /static_files/presentations/Lecture_1.jpg
