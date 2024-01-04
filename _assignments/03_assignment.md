@@ -5,7 +5,7 @@ title: 'Kaggle challenge '
 #pdf: /static_files/homeworks/hw3.pdf
 due_event: 
     type: due
-    date: 2024-03-31T16:01:00+1:30
+    date: 2024-03-19T16:01:00:00
     description: 'Kaggle challenge ends'
 
 milestone:
