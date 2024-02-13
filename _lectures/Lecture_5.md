@@ -7,7 +7,7 @@ title: Lecture 5 - Unsupervised learning, kernel PCA, K-means, CCA
 tldr: "Kernel methods for  unsupervised learning."
 
 thumbnail: /static_files/presentations/Lecture_5.jpg
-display: false
+display: true
 slides_begin: 222
 slides_ends: 279
 links: 
