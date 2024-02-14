@@ -9,5 +9,5 @@ due_event:
     type: due
     date: 2024-03-06T13:30:00+1:00
     description: 'Assignment #2 due'
-display: false
+display: true
 ---
