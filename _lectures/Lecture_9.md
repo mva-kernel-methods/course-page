@@ -6,7 +6,7 @@ date: 2024-03-20T8:00:00+1:30
 title: Lecture 9 -  Generalization of Kernel Ridge Regression
 tldr: "Scaling up kernel methods to large problems"
 thumbnail: /static_files/presentations/Lecture_9.jpg
-display: false
+display: true
 slides_begin: 811
 slides_ends: 966
 
