@@ -6,7 +6,7 @@ date: 2024-03-06T8:00:00+1:30
 title: Lecture 7 - Green, Mercer, Herglotz, Bochner and friends
 tldr: "Some kernel theory."
 thumbnail: /static_files/presentations/Lecture_1.jpg
-display: false
+display: true
 slides_begin: 280
 slides_ends: 416
 links: 
