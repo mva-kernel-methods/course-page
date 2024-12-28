@@ -12,12 +12,12 @@ instructors:
     current: true
 institutions:
   - name: PSL University
-    program: Artificial Intelligence, Systems, Data (IASD) / MSc Mathematics, Machine Learning, and the Humanities (MASH)
+    program: Artificial Intelligence, Systems, Data (IASD) / Mathematics, Machine Learning, and the Humanities (MASH)
     webpage: https://dauphine.psl.eu/en/training/masters-degrees/computer-science/m2-artificial-intelligence-systems-data
     ins_webpage: https://dauphine.psl.eu/en/
     logo: /_images/logo_dauphine.png
   - name: ENS Paris Saclay
-    program: MSc Mathematics, Vision, Machine Learning (MVA)
+    program: Mathematics, Vision, Machine Learning (MVA)
     webpage: https://www.master-mva.com/
     ins_webpage: https://ens-paris-saclay.fr/en
     logo: /_images/logo_ENS.png
