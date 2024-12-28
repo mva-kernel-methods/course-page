@@ -6,7 +6,7 @@ date: 2025-01-22T8:00:00+1:30
 title: Lecture 2 - Smoothness functional, Kernel trick, Representer theorem
 tldr: "Main tools for kernel methods"
 thumbnail: /static_files/presentations/Lecture_2.jpg
-display: true
+display: false
 slides_begin: 78
 slides_ends: 114
 links: 
