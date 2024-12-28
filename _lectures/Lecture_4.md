@@ -1,12 +1,12 @@
 ---
 type: lecture
 instructor: JM
-location: 0I10 Amphi Hodgkin
-date: 2024-02-07T8:00:00+1:30
+location: 16bis rue de l'Estrapade, 75005 Paris
+date: 2025-02-05T8:00:00+1:30
 title:  Lecture 4 - Large-margin classifiers, SVMs
 tldr: "Application of kernel methods to classification"
 thumbnail: /static_files/presentations/Lecture_4.jpg
-display: true
+display: false
 slides_begin: 164
 slides_ends: 221
 
