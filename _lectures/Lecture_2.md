@@ -1,8 +1,8 @@
 ---
 type: lecture
-location: 1Z14
+location: 16bis rue de l'Estrapade, 75005 Paris
 instructor: JM
-date: 2024-01-24T8:00:00+1:30
+date: 2025-01-22T8:00:00+1:30
 title: Lecture 2 - Smoothness functional, Kernel trick, Representer theorem
 tldr: "Main tools for kernel methods"
 thumbnail: /static_files/presentations/Lecture_2.jpg
