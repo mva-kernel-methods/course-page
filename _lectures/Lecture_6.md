@@ -1,12 +1,12 @@
 ---
 type: lecture
-location: 1Z14
+location: 16bis rue de l'Estrapade, 75005 Paris
 instructor: MA
-date: 2024-03-06T8:00:00+1:30
+date: 2025-02-19T8:00:00+1:30
 title: Lecture 7 - Green, Mercer, Herglotz, Bochner and friends
 tldr: "Some kernel theory."
 thumbnail: /static_files/presentations/Lecture_1.jpg
-display: true
+display: false
 slides_begin: 280
 slides_ends: 416
 links: 
