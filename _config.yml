@@ -1,20 +1,20 @@
 # Site settings
 course_name: Machine learning with kernel methods
 course_description: ""
-course_semester: "Spring 2024"
+course_semester: "Spring 2025"
 
-baseurl: "/course-2023-2024" # the subpath of your site, e.g. /blog/
+baseurl: "/course-page" # the subpath of your site, e.g. /blog/
 url: "https://mva-kernel-methods.github.io/" # the base hostname & protocol for your site
 
-schoolname: "MVA/MASH"
-schoolurl: "http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/"
+schoolname: "IASD/MVA/MASH"
+schoolurl: "https://dauphine.psl.eu/en/training/masters-degrees/computer-science/m2-artificial-intelligence-systems-data"
 
 
 twitter_username: username 
 
 address: |
-    MVA/MASH
-    ENS Paris Saclay/Dauphine, PSL University
+    IASD/MVA/MASH
+    Dauphine, PSL University/ENS Paris Saclay
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
