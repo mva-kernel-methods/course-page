@@ -1,8 +1,8 @@
 ---
 type: lecture
-location: 0I10 Amphi Hodgkin
+location: 16bis rue de l'Estrapade, 75005 Paris
 instructor: MA
-date: 2024-01-10T8:00:00+1:30
+date: 2025-01-15T8:00:00+1:30
 title: Lecture 1 - Kernels, RKHS, examples 
 tldr: "Introduction to kernels and related notions."
 display: true
