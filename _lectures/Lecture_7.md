@@ -1,12 +1,12 @@
 ---
 type: lecture
-location: 1Z14
+location: 16bis rue de l'Estrapade, 75005 Paris
 instructor: JM
-date: 2024-02-28T8:00:00+1:30
+date: 2025-02-26T8:00:00+1:30
 title: Lecture 6 - Kernels for graphs, kernels on graphs
 tldr: "Some applications of kernel methods to graph structured data."
 thumbnail: /static_files/presentations/Lecture_7.jpg
-display: true
+display: false
 slides_begin: 530
 slides_ends: 674
 links: 
