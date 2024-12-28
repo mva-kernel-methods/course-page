@@ -2,10 +2,6 @@ instructors:
   - name: Jean-Philippe Vert 
     webpage: https://members.cbio.mines-paristech.fr/~jvert/
     current: false
-  - name: Alessandro Rudi
-    profile_pic: /_images/pp/alessandro.png
-    webpage: https://www.di.ens.fr/~rudi/
-    current: true
   - name: Michael Arbel
     profile_pic: /_images/pp/michael.jpg
     webpage: https://michaelarbel.github.io/
@@ -13,8 +9,13 @@ instructors:
   - name: Julien Mairal
     profile_pic: /_images/pp/julien.png
     webpage: https://thoth.inrialpes.fr/people/mairal/
-    current: false
+    current: true
 institutions:
+  - name: PSL University
+    program: Artificial Intelligence, Systems, Data (IASD)
+    webpage: https://dauphine.psl.eu/en/training/masters-degrees/computer-science/m2-artificial-intelligence-systems-data
+    ins_webpage: https://dauphine.psl.eu/en/
+    logo: /_images/logo_dauphine.png
   - name: ENS Paris Saclay
     program: MSc Mathematics, Vision, Machine Learning (MVA)
     webpage: https://www.master-mva.com/
