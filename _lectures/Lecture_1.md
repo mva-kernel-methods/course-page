@@ -5,7 +5,7 @@ instructor: MA
 date: 2025-01-15T8:00:00+1:30
 title: Lecture 1 - Kernels, RKHS, examples 
 tldr: "Introduction to kernels and related notions."
-display: false
+display: true
 slides_begin: 1
 slides_ends: 77
 
