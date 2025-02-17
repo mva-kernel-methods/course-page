@@ -3,11 +3,11 @@ type: lecture
 location: 16bis rue de l'Estrapade, 75005 Paris
 instructor: JM
 date: 2025-02-12T8:00:00+1:30
-title: Lecture 5 - Unsupervised learning, kernel PCA
+title: Lecture 4 - Unsupervised learning, kernel PCA
 tldr: "Kernel methods for  unsupervised learning."
 
 thumbnail: /static_files/presentations/Lecture_5.jpg
-display: false
+display: true
 slides_begin: 222
 slides_ends: 279
 links: 
