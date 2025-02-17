@@ -7,7 +7,7 @@ title: Lecture 3 - Logistic regression, Large-margin classifiers and SVMs
 tldr: "Application of kernel methods to classification"
 
 thumbnail: /static_files/presentations/Lecture_3.jpg
-display: false
+display: true
 slides_begin: 101
 slides_ends: 162
 links: 
