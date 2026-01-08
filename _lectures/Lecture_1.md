@@ -1,8 +1,8 @@
 ---
 type: lecture
 location: 16bis rue de l'Estrapade, 75005 Paris
-instructor: MA
-date: 2025-01-15T8:00:00+1:30
+instructor: JM
+date: 2026-01-07T8:00:00+1:30
 title: Lecture 1 - Kernels, RKHS, examples 
 tldr: "Introduction to kernels and related notions."
 display: true
