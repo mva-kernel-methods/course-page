@@ -24,7 +24,7 @@ The goal of this course is to present the mathematical foundations of kernel met
 
 ## Schedule and organization
 
-- The class on kernel methods, jointly organized for IASD, MVA, and MASH M2 programs, will take place on **Wednesdays** from **1:30pm** to **4pm**, starting on January 15th, at 16bis rue de l'Estrapade, 75005 Paris. See the **[full schedule](schedule/)**. There will be 9 sessions in total.
+- The class on kernel methods, jointly organized for IASD, MVA, and MASH M2 programs, will take place on **Wednesdays** from **1:30pm** to **4:30pm**, starting on January 07th, at 16bis rue de l'Estrapade, 75005 Paris. See the **[full schedule](schedule/)**. There will be 9 sessions in total.
 - The grading of the class will be done with (i) one final exam, (ii) a data challenge, (iii) regular (short) exercises to do online. 
 
 ## Evaluation
