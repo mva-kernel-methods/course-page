@@ -1,8 +1,8 @@
 ---
 type: lecture
 location: 16bis rue de l'Estrapade, 75005 Paris
-instructor: JM
-date: 2025-02-12T8:00:00+1:30
+instructor: MA
+date: 2026-02-18T8:00:00+1:30
 title: Lecture 5 - Unsupervised learning, K-means, CCA
 tldr: "Kernel methods for  unsupervised learning."
 
