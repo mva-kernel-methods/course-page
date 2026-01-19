@@ -8,10 +8,8 @@ tldr: "Kernel methods for  unsupervised learning."
 
 thumbnail: /static_files/presentations/Lecture_5.jpg
 display: true
-slides_begin: 179
-slides_ends: 199
+slides_begin: 
+slides_ends: 
 links: 
-    - url: https://www.youtube.com/watch?v=7o2Hny_5lk0&feature=youtu.be
-      name: Video 2
 ---
 

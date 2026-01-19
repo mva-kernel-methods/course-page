@@ -7,15 +7,9 @@ title: Lecture 6 - Green, Mercer, Herglotz, Bochner and friends
 tldr: "Some kernel theory."
 thumbnail: /static_files/presentations/Lecture_1.jpg
 display: true
-slides_begin: 280
-slides_ends: 416
+slides_begin: 
+slides_ends: 
 links: 
-    - url: https://www.youtube.com/watch?v=9uV0vEW782s&feature=youtu.be
-      name: Video 1
-    - url: https://youtu.be/2eEMExbpVLU
-      name: Video 2
-    - url: https://youtu.be/bar4CREefOc
-      name: Video 3
 
 ---
 **Additional Videos:**

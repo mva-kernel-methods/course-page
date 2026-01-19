@@ -8,11 +8,9 @@ tldr: "Application of kernel methods to classification"
 
 thumbnail: /static_files/presentations/Lecture_3.jpg
 display: true
-slides_begin: 101
-slides_ends: 162
+slides_begin: 
+slides_ends: 
 links: 
-    - url: https://www.youtube.com/watch?v=BJj3auMlt8U&feature=youtu.be
-      name: Video 1
 ---
 
 
