@@ -3,9 +3,9 @@ type: lecture
 location: 16bis rue de l'Estrapade, 75005 Paris
 instructor: MA
 date: 2026-03-11T8:00:00+1:30
-title: Lecture 8 - Kernel Mean Embeddings of probability distributions
+title: Lecture 7 - 
 tldr: "Representing probability distributions using kernels"
-thumbnail: /static_files/presentations/Lecture_8.jpg
+thumbnail: /static_files/presentations/Lecture_7.jpg
 display: false
 slides_begin: 
 slides_ends: 
