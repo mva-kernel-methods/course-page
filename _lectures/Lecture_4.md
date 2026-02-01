@@ -1,8 +1,8 @@
 ---
 type: lecture
-location: 16bis rue de l'Estrapade, 75005 Paris
+location: online (check your emails for the link)
 instructor: JM
-date: 2026-02-04T8:00:00+1:30
+date: 2026-02-04T8:00:00+2:00
 title: Lecture 4 - 
 tldr: "Kernel methods for  unsupervised learning."
 
