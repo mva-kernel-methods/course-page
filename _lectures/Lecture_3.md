@@ -10,7 +10,13 @@ thumbnail: /static_files/presentations/Lecture_3.jpg
 display: true
 slides_begin: 143
 slides_ends: 199
-links: 
+links:     
+    - url: https://www.youtube.com/watch?v=glDhR4Iq1sE 
+      name: Video 1
+    - url: https://www.youtube.com/watch?v=oCt70znxn34 
+      name: Video 2
+    - url: https://www.youtube.com/watch?v=7o2Hny_5lk0 
+      name: Video 3
 ---
 
 
