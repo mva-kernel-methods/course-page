@@ -3,13 +3,13 @@ type: lecture
 location: online (check your emails for the link)
 instructor: JM
 date: 2026-02-04T8:00:00+2:00
-title: Lecture 4 - 
+title: Lecture 4 - Kernels for graphs 
 tldr: "Kernel methods for  unsupervised learning."
 
 thumbnail: /static_files/presentations/Lecture_5.jpg
 display: true
-slides_begin: 
-slides_ends: 
+slides_begin: 444
+slides_ends: 493
 links: 
 ---
 
